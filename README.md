@@ -2,7 +2,7 @@
 
 
 
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on a MERN Project.
 🌱 I'm currently learning NodeJS
  👯 I'm looking to collaborate on MERN project.
  💬 Ask me about anything
